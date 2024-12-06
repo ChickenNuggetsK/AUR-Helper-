@@ -5,7 +5,7 @@
 #include <stdio.h>
 
 
-#define PACKAGE "ocaml-utop"
+#define PACKAGE "insert_package_name"
 
 
 
