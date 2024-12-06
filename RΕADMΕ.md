@@ -5,7 +5,7 @@ This project was created for the "Nuit de l'Informatique 2024". In this reposito
 This is an AUR "Helper". The AUR (Arch User Repository) is a community-driven repository for Arch Linux. An AUR helper is a program that help you use this repository.
 ## Why should I use this one and not another?
 
--   **Security**: Our code is designed to be extremely secure. We set all array sizes to 100,000 to prevent memory corruption and use "Security Through Very Bright Obscurity™". This proprietary security technology ensures that anyone attempting to read the code will experience significant headache, making reverse engineering impossible without a government-sponsored supply of aspirin.
+-   **Security**: Our code is designed to be extremely secure. We set all array sizes to 100,000 to prevent memory corruption and use "Security Through Very Bright Obscurity™". This proprietary security technology ensures that anyone attempting to read the code will experience significant headache, making reverse engineering impossible without a government-sponsored supply of aspirin. Here, we believe that indentation is unnecessary, and error codes should not exist because they imply that your code can crash. Our code, of course, is absolutely flawless.
     
 -   **No Unwanted Installs**: We **NEVER** install any package unless you explicitly tell us to do so.
     
