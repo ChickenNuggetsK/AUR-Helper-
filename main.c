@@ -14,6 +14,7 @@
 
 #define BASE_URL "https://aur.archlinux.org/"
 #define PACKAGE_URL BASE_URL PACKAGE ".git"
+// Please imagine a complex codebase, I thought it was going to be a bit more challenging
 void main(void) {
 	
    git_libgit2_init();
